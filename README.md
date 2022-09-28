@@ -2,7 +2,7 @@
 
 first step : npm i json-server -g
 
-secon step: json-server --watch db.json
+second step: json-server --watch db.json
 
 
 
